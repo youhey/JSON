@@ -1,0 +1,16 @@
+# Global
+
+.DS_Store
+*~
+*.swp
+*.bak
+Thumbs.db
+desktop.ini
+
+# PHP
+
+phpunit.xml
+composer.lock
+composer.phar
+/vendor/
+

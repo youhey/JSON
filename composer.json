@@ -1,0 +1,18 @@
+{
+    "name": "ikeda/json",
+    "description": "Simple JSON wrapper. Throw a Exception if an error occurs",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "IKEDA Youhei",
+            "email": "youhey.ikeda@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+            "psr-0": { "MsgpackRpc": "src/" }
+    }
+}
